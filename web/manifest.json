@@ -1,6 +1,6 @@
 {
-    "name": "wonderlist",
-    "short_name": "wonderlist",
+    "name": "wondertheme",
+    "short_name": "wondertheme",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

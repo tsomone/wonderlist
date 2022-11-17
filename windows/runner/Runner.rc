@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "wonderlist" "\0"
+            VALUE "FileDescription", "wondertheme" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "wonderlist" "\0"
+            VALUE "InternalName", "wondertheme" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "wonderlist.exe" "\0"
-            VALUE "ProductName", "wonderlist" "\0"
+            VALUE "OriginalFilename", "wondertheme.exe" "\0"
+            VALUE "ProductName", "wondertheme" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

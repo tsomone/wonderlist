@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.wonderlist">
+    package="com.example.wondertheme">
    <application
-        android:label="wonderlist"
+        android:label="wondertheme"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

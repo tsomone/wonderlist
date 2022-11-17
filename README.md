@@ -1,4 +1,4 @@
-# wonderlist
+# wondertheme
 
 A new Flutter project.
 
